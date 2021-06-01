@@ -1,0 +1,95 @@
+/***************tag selectors**********************/
+body{
+    background-color: hsl(0, 0%, 81%);
+padding: 5% 5%;
+font-family: 'Barlow Semi Condensed', sans-serif;
+font-size: 13px;
+font-weight: 500;
+text-align: left;
+}
+
+/*******************class selectors****************************/
+.container-fluid{
+    padding: 0px;
+    margin: 0px;
+}
+.white-text{
+    color: hsl(0, 0%, 81%);
+    font-weight: 500;
+    clear: left;
+    filter: opacity(0.7);
+}
+.black-text{
+    color: black;
+    font-weight: 500;
+    clear: left;
+    filter: opacity(0.7);
+}
+.testimonial-image{
+    border-radius: 100%;
+    width: 30px;
+    margin: 10px;
+    float: left;
+}
+.heading-1-white{
+    color:hsl(210, 46%, 95%) ;
+    font-size: 15px;
+}
+.heading-2-white{
+    color: hsl(0, 0%, 81%);
+    font-size: 13px;
+    filter: opacity(0.5);
+}
+.heading-1{
+    color: black;
+    font-size: 15px;
+}
+.heading-2{
+    color: black;
+    font-size: 13px;
+    filter: opacity(0.5);
+}
+.review-white{
+    color:hsl(210, 46%, 95%);
+    font-weight: 600;
+    font-size: 20px;
+    clear: left;
+}
+.review-black{
+    color: black;
+    font-weight: 600;
+    font-size: 20px;
+clear: left;
+}
+/*********************id selectors********************************/
+#clifford{
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 2%;
+    margin: 10px;
+    padding: 20px;
+}
+#walters{
+    background-color: hsl(217, 19%, 35%);
+    border-radius: 2%;
+    margin: 10px;
+    padding: 20px;
+}
+#harmon{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 2%;
+    margin: 10px;
+    padding: 20px;
+}
+#abrams{
+    background-color: hsl(219, 29%, 14%);
+    border-radius: 2%;
+    margin: 10px;
+    padding: 20px;
+}
+#whittle{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 2%;
+    margin: 10px;
+    padding: 20px;
+}
+/*******************************************/
